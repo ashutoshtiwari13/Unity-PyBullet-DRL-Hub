@@ -7,7 +7,7 @@ The observation space is 24-dimensional consisting of 8 variables corresponding 
 of the ball and racket. Each agent receives its own, local observation. Two continuous actions are available, corresponding
 to movement toward (or away from) the net, and jumping. The accompanying research paper can be found [here](https://arxiv.org/pdf/1706.02275.pdf).
 
-<img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Tennis-Env-MA_DDPG/output/Tennis.gif" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Tennis-Env-MA_DDPG/output/sim2.jpg" height="425px" width="400px"/>
+<img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Tennis-Env-MA_DDPG/output/sim2.jpg" height="400px" width="450px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Tennis-Env-MA_DDPG/output/Tennis.gif" height="400px" width="450px"/>
 
 
 ### Maddpg Environment
@@ -65,5 +65,6 @@ non-stationary from the viewpoint of any one agent.
 ### Train History
 
 At **1600 episode** the **Average Score** is achived to **+1.14**.  
-<img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Tennis-Env-MA_DDPG/output/plot_1600episodes.png" height="425px" width="380px"/>
+<p align="center">
+<img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Tennis-Env-MA_DDPG/output/plot_1600episodes.png" height="450px" width="450px"/>
 </p>
