@@ -1,8 +1,8 @@
 
-## Navigating Banana E
+## Navigating Banana Environment
 The agent is trained to navigate (and collect bananas!) in a large, square world.  
 
-<img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/output/simulation.gif" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/output/simulation-2.gif" height="425px" width="400px"/>
+<img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Banana-Env-DQN/output/simulation.gif" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Banana-Env-DQN/output/simulation-2.gif" height="425px" width="400px"/>
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting
 a blue banana.  Thus, the goal of the agent is to collect as many yellow bananas as possible while
@@ -106,7 +106,7 @@ This is the typical output of training sessions:
  Episode: 579, elapsed: 0:09:29.603803, Avg.Score: 13.00,  score 18.0, How many scores >= 13: 51, eps.: 0.10   
  terminating at episode : 579 avg.reward reached +13 over 100 episodes  
   <p align="center">
-  <img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/output/scores_run2.png" height="425px" width="380px"/>
+  <img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Banana-Env-DQN/output/scores_run2.png" height="425px" width="380px"/>
   </p>
 
  fc1_units:  80 , fc2_units:  88      
@@ -115,7 +115,7 @@ This is the typical output of training sessions:
  terminating at episode : 572 avg.reward reached +13 over 100 episodes   
 
  <p align="center">
- <img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/output/scores_run3.png" height="425px" width="380px"/>
+ <img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Banana-Env-DQN/output/scores_run3.png" height="425px" width="380px"/>
  </p>
 
 ### Credit
