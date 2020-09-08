@@ -1,5 +1,21 @@
+#iMport libs
+import numpy as np
+import random
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from collections import namedtuple, deque
+from model import PPO_Actor_Critic
 
-#Code from Banana-Env-DQN
+
+"""
+PPO Agent code
+"""
+
+
+"""
+Replay Buffer Code from Banana-Env-DQN
+"""
 class ReplayBuffer:
     """Fixed-size buffer to store experience tuples."""
 
