@@ -19,7 +19,7 @@ class Actor(nn.Module):
     """Actor (Policy) Model."""
 
     def __init__(self, state_size, action_size, fc1_units=64, fc2_units=64):
-        """Initialize parameters and build model.
+        """Initialize parameters and build model
         Params
         ======
             state_size (int): Dimension of each state
