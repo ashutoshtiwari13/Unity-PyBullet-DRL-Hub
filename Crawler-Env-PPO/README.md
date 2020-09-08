@@ -29,11 +29,15 @@ Note : For details of PPO please see the summary of the PPO paper [here](https:/
 
  * 1. Input: fc1_units = 1024, fc2_units = 1024, Max Step of Episode = 1000   
    Result: 676 episodes, score = 500    
-   ![](images/plot_500score.png)    
+   <p align="center">
+   <img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Crawler-Env-PPO/output/plot_500score.png" height="425px" width="380px"/>
+   </p>   
 
  * 2. Input: fc1_units = 1024, fc2_units = 1024, Max Step of Episode = 1500    
    Result: 550 episodes, score = 650       
-   ![](images/plot_650score.png)   
+   <p align="center">
+   <img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Crawler-Env-PPO/output/plot_500score.png" height="425px" width="380px"/>
+   </p>   
 
 ### Credit   
 Most of the code is based on Udacity's PPO code.
