@@ -66,5 +66,5 @@ non-stationary from the viewpoint of any one agent.
 
 At **1600 episode** the **Average Score** is achived to **+1.14**.  
 <p align="center">
-<img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Tennis-Env-MA_DDPG/output/plot_1600episodes.png" height="450px" width="450px"/>
+<img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Tennis-Env-MA_DDPG/output/plot_1600episodes.png" height="380px" width="450px"/>
 </p>
