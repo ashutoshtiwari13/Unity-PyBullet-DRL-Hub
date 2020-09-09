@@ -26,7 +26,7 @@ The major difference with common RL algorithms is training to maximize a trade-o
 expected return and entropy, a measure of randomness in the policy. This has a close connection     
 to the exploration-exploitation trade-off: increasing entropy results in more exploration,   
 which can accelerate learning later on. It can also prevent the policy from prematurely    
-converging to a bad local optimum.
+converging to a bad local optimum
 
 ### Reparameterization Trick
 
