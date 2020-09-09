@@ -2,7 +2,7 @@
 
 REINFORCE algorithm is based on finding the **local maximum** of a function using a procedure known as **gradient ascent**.
 
-<img src="https://github.com/ashutoshtiwari13/Unity-PyBullet-DRL-Hub/blob/master/CartPole-Env-REINFORCE/output/sim-1.gif" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Unity-PyBullet-DRL-Hub/blob/master/CartPole-Env-REINFORCE/output/sim-2.gif"" height="200px" width="300px"/>
+<img src="https://github.com/ashutoshtiwari13/Unity-PyBullet-DRL-Hub/blob/master/CartPole-Env-REINFORCE/output/sim-1.gif" height="425px" width="380px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Unity-PyBullet-DRL-Hub/blob/master/CartPole-Env-REINFORCE/output/sim-2.gif" height="425px" width="400px"/>
 
 ## Class Policy
 
