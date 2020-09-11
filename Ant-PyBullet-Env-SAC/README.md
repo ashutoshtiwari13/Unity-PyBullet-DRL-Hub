@@ -1,7 +1,7 @@
 #  Ant PyBullet Environment - Soft Actor Critic (SAC)
 
 
-Solving the environment  by usage of the *Soft Actor Critic* algorithm, see the summary of the basic paper [here]()
+Solving the environment  by usage of the *Soft Actor Critic* algorithm, see the summary of the basic paper [here](https://github.com/ashutoshtiwari13/A-RL-Paper-A-Day-Keeps-boredom-away)
 
 <img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Ant-PyBullet-Env-SAC/output/AntEnv-sim1.gif" height="400px" width="450px" hspace="20"/><img src="https://github.com/ashutoshtiwari13/Unity-DRL-Hub/blob/master/Ant-PyBullet-Env-SAC/output/AntEnv-sim2.gif" height="400px" width="450px"/>
 
