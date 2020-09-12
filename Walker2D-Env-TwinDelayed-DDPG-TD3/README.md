@@ -6,4 +6,4 @@ The __Twin Delayed DDPG (TD3)__ algorithm is introduced in the basic paper [Addr
 
 
 ### Training Score
-![td3](images/plot_Walker2D_9361epis.png)
+![td3](https://github.com/ashutoshtiwari13/Unity-PyBullet-DRL-Hub/blob/master/Walker2D-Env-TwinDelayed-DDPG-TD3/output/sim_run1.png)
